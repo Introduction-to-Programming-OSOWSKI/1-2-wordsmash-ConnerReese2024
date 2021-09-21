@@ -1,4 +1,4 @@
-def worsmash(cat , dog):
-    return cat + dog
+def worsmash(Cat, Dog):
+    return Cat + Dog
 
-print (worsmash("cat" , "dog"))
+print (worsmash("Cat", "Dog"))
