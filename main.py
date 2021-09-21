@@ -1,9 +1,4 @@
-def wordsmash(Cat, Dog):
+def wordSmash(Cat, Dog):
     return Cat + Dog
 
-print (wordsmash("Cat", "Dog"))
-
-def wordsmash(Blue, Red):
-    return blue + red
-
-print (wordsmash("blue", "red"))
+print (wordSmash("Cat", "Dog"))
